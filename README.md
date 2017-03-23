@@ -1,1 +1,1 @@
-# legal retrival
+#legal retrieval
